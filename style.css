@@ -1,0 +1,48 @@
+body{
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+.conteudo{
+    width: 700px;
+    margin: auto;
+    display: flex;
+    border: none;
+    flex-direction: column;
+    margin-top: 80px;
+    background-color: darkgrey;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+   
+   
+}
+a{
+    cursor: pointer;
+}
+
+.input-button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+}
+
+li{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+  
+}
+
+ul{
+    width: 100%;
+    padding: 0;
+}
